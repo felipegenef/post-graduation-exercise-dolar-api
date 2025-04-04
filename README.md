@@ -13,7 +13,7 @@ Este projeto faz parte de um exercício/exame de uma pós-graduação em Golang.
 
 ## Requisitos
 
-- Go 1.18 ou superior
+- Go 1.23.3 ou superior
 - Pacote SQLite `modernc.org/sqlite`
 - Acesso à internet para consumir a API externa (https://economia.awesomeapi.com.br/json/last/USD-BRL)
 
@@ -79,7 +79,7 @@ This project is part of an exercise/exam for a Golang postgraduate course. It co
 
 ## Requirements
 
-- Go 1.18 or higher
+- Go 1.23.3 or higher
 - SQLite package modernc.org/sqlite
 - Internet access to query the external API (https://economia.awesomeapi.com.br/json/last/USD-BRL)
 
