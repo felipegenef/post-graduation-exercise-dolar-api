@@ -22,7 +22,7 @@ Este projeto faz parte de um exercício/exame de uma pós-graduação em Golang.
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/cotacao-api.git
+git clone https://github.com/felipegenef/post-graduation-exercise-dolar-api.git
 cd cotacao-api
 ```
 
@@ -88,7 +88,7 @@ This project is part of an exercise/exam for a Golang postgraduate course. It co
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cotacao-api.git
+git clone https://github.com/felipegenef/post-graduation-exercise-dolar-api.git
 cd cotacao-api
 ```
 
